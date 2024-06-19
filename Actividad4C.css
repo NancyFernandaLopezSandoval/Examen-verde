@@ -1,0 +1,13 @@
+
+
+text:hover {
+    cursor: url('cross.png'), auto;
+}
+
+a:hover {
+    cursor: url('cross.png'), auto;
+}
+
+html{
+    cursor: url('navigation.png'),pointer;
+}
